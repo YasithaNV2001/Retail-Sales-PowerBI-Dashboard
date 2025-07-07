@@ -34,7 +34,7 @@ This Power BI project provides insights into the sales performance, profitabilit
 - 🧱 Sales vs Profit by Category (clustered column)
 - 🔍 Slicers: Year, Quarter, Month, Region, Segment
 
-🖼️ ![Sales Overview Page](screenshots/page1_sales_overview.png)
+🖼️ ![Sales Overview Page](page1_sales_overview.png)
 
 ---
 
@@ -44,7 +44,7 @@ This Power BI project provides insights into the sales performance, profitabilit
 - 📊 Profit and Orders by Region & Ship Mode
 - 🔥 Heatmap of average shipping delay (Region × Month)
 
-🖼️ ![Regional Insights Page](screenshots/page2_region_segment.png)
+🖼️ ![Regional Insights Page](page2_region_segment.png)
 
 ---
 
@@ -55,7 +55,7 @@ This Power BI project provides insights into the sales performance, profitabilit
 - 🧑 Customer segment behavior by Region
 - 📦 Returns and Repeat Customers
 
-🖼️ ![Product and Customer Page](screenshots/page3_product_customer.png)
+🖼️ ![Product and Customer Page](page3_product_customer.png)
 
 ---
 
