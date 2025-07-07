@@ -72,16 +72,16 @@ Sales YTD = TOTALYTD(SUM(Sales[Sales]), 'DateTable'[Date])
 ## 📚 Folder Structure
 Retail-Sales-PowerBI/
 │
-├── data/
+├
 │   └── retail_raw_dataset.csv
 │
-├── pbix/
+├
 │   └── RetailSalesDashboard.pbix
 │
-├── screenshots/
+├
 │   ├── page1_sales_overview.png
 │   ├── page2_region_segment.png
 │   └── page3_product_customer.png
 │
 ├── README.md
-└── transformation_steps.md
+└
